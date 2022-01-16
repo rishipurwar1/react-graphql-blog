@@ -2,14 +2,14 @@
 
 Blog App is a full-fledged website where users can read blogs. Users can filter blogs by category. Users can add comments to a blog post.
 
-![Homepage](client/src/assets/imgs/photon-one.png)
+![Homepage](/src/assets/imgs/readme.png)
 
 ## Features
 
-✅ User can read blogs.
-✅ Users can filter blogs by categories.
-✅ Users can see related blogs.
-✅ Users can see recent blogs.
+✅ User can read blogs. \
+✅ Users can filter blogs by categories. \
+✅ Users can see related blogs. \
+✅ Users can see recent blogs. \
 ✅ Users can add comments to the blogs.
 
 ## 👨‍💻 Demo
